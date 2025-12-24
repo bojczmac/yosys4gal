@@ -1,0 +1,5 @@
+set_io clk 1
+set_io a 3
+set_io b 4
+set_io c 5
+set_io y 17
